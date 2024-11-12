@@ -47,7 +47,7 @@ UiPath Studio-community edition
 
 ![image](https://github.com/user-attachments/assets/5533216a-9c64-4565-9b99-200b67d17812)
 
-![image](https://github.com/user-attachments/assets/a41e9aa0-1233-46f5-9197-8879f9dafc51)
+![image](https://github.com/user-attachments/assets/f3c51067-de81-4c0a-af4b-0fcf847ffb08)
 
 
 ### Output:
